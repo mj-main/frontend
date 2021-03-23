@@ -1,5 +1,5 @@
-## 프론트엔드 스터디
-- Coursera의 [Full-Stack Web Development with React](https://www.coursera.org/specializations/full-stack-react) 강의 내용을 정리
+## 스터디 내용
+- Coursera의 [Full-Stack Web Development with React](https://www.coursera.org/specializations/full-stack-react) 강의 내용 정리
 
 ## 스터디 계획
 
